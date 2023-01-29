@@ -14,7 +14,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['+94740612695'] //ur owner number
+global.owner = ["94740612695"] //ur owner number
 global.ownername = "🤍 ᶜᵁ̥ᵀ̯ᴱ̥׀〲⃝ꜱͥᴇɴͣᴜͫ ×͜× 👻" //ur owner name
 global.ytname = "YT: 𝙲𝚄𝚃𝙴 𝚂𝙴𝙽𝚄 𝚈𝚃" //ur yt chanel name
 global.socialm = "GitHub: nimaofficial" //ur github or insta name
@@ -27,7 +27,7 @@ global.botname = 'BLACK DRAGON' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.helacloud.ga" //ur website to be displayed
 global.botscript = 'https://github.com/nimaofficial/Black-Dragon' //script link
-global.themeemoji = "❤️" //ur theme emoji
+global.themeemoji = "🏷️" //ur theme emoji
 global.packname = "𝙼𝙰𝙳𝙴 𝙱𝚈" //ur sticker watermark packname
 global.author = "🤍 ᶜᵁ̥ᵀ̯ᴱ̥׀〲⃝ꜱͥᴇɴͣᴜͫ ×͜× 👻" //ur sticker watermark author
 global.wm = "匚ㄩㄒ乇 S̷E̷N̷U̷ 𝗜𝗡𝗖" //ur watermark
